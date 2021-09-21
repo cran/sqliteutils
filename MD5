@@ -1,0 +1,14 @@
+d563c680b99d4ad363a2aca4ef647a1d *DESCRIPTION
+029107a92a4a1a3fbb212680de8688ce *LICENSE
+852b8b11e89d45e62f737c71d55a5e50 *NAMESPACE
+7cddf59745960baa68d9776f303189dc *R/slu_date_to_r.R
+5e1beac52617f7a6d16fff0b76faa3a9 *R/slu_date_to_sqlite.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+25c36bc98dfa1f53d345c67933c0e189 *README.md
+89752c42261a61706da302bb07dab317 *man/figures/README-pressure-1.png
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+f479a90469f9d08d84b2bcd07724be03 *man/slu_date_to_r.Rd
+004852ab58ebb17334e8df3485bddb04 *man/slu_date_to_sqlite.Rd
+21a014e6d8bea9b75705e6076117d9af *tests/testthat.R
+7ab1f10ed9698500054adec2e337cd51 *tests/testthat/test-slu_date_to_r.R
+6cb1956fa6dacb5ee36d5b436ea460ed *tests/testthat/test-slu_date_to_sqlite.R
